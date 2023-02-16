@@ -48,7 +48,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <skip.unit.tests>false</skip.unit.tests>
     <slf4j.version>1.7.6</slf4j.version>
-    <jodatime.version>2.9</jodatime.version>
+    <jodatime.version>2.12.2</jodatime.version>
     <maven.build.timestamp.format>yyyyMMdd-HHmmss</maven.build.timestamp.format>
   </properties>
 
